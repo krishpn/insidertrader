@@ -1,4 +1,4 @@
-# Insider Trade 
+# Insider Trading
 
 
 This project builds upon my PhD dissertation, "Identification, Classification, and Interpretation of the Covariates Characterizing Unlawful Insider Trading: A Comparative Analysis Using Machine Learning Techniques". The following papers have been published as part of this research:
